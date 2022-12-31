@@ -194,22 +194,22 @@ function App() {
     },
     {
       id: 8,
-      question: "Hangisi Fransız heykeltıraş Rodin’in eserlerinden biri değildir?",
+      question: "'İşletme, iştiraki olan “D” işletmesinden 10.000 ₺ tutarında malı kredili olarak satın almıştır.'İşletmenin bu işlemden doğan borcu aşağıdaki hesaplardan hangisinde izlenmektedir?",
       answers: [
         {
-          text: "Uyuyan Kadın",
+          text: "Satıcılar",
           correct: true,
         },
         {
-          text: "Düşünen Adam",
+          text: "İştiraklere Borçlar",
           correct: false,
         },
         {
-          text: "Yürüyen Adam",
+          text: "Banka Krediler",
           correct: false,
         },
         {
-          text: "Çömelen Kadın",
+          text: "Diğer Ticari Borçlar",
           correct: false,
         },
         
@@ -217,22 +217,22 @@ function App() {
     },
     {
       id: 9,
-      question: "Bir kız bana emmi dedi neyleyim sözü hangi halk ozanına aittir",
+      question: "'İşletmenin geçici yatırım amacıyla satın aldığı 400.000 ₺ tutarlı hisse senetlerinin borsa rayici 355.000 ₺ olarak belirlenmiş ve 45.000 ₺ karşılık ayrılmıştır.'Bu işlem aşağıdaki muhasebe kavramlarının hangisinin sonucudur?",
       answers: [
         {
-          text: "Ercişli Emrah",
+          text: "Önemlilik Kavramı",
           correct: false,
         },
         {
-          text: "Dadaloğlu",
+          text: "Borsa Rayici Kavramı",
           correct: false,
         },
         {
-          text: "Aşık Daimi",
+          text: "Parayla Ölçme Kavramı",
           correct: false,
         },
         {
-          text: "Karacaoğlan",
+          text: " İhtiyatlılık Kavramı",
           correct: true,
         },
         
@@ -240,22 +240,22 @@ function App() {
     },
     {
       id: 10,
-      question: "Filozoflar dünyayı yalnızca yorumlamışlardır, oysa sorun onu değiştirmektir' sözü kime aittir?",
+      question: "Aşağıdakilerden hangisi işletmenin brüt satış kârı üzerinde doğrudan etkilidir?",
       answers: [
         {
-          text: "Büyük İskender",
+          text: "Finansman Giderler",
           correct: false,
         },
         {
-          text: "Karl Marx",
+          text: "Satıştan İadeler",
           correct: true,
         },
         {
-          text: "Mahatma Gandhi",
+          text: "Amortisman Giderler",
           correct: false,
         },
         {
-          text: "Ernesto Che Guevera",
+          text: "Komisyon Giderleri",
           correct: false,
         },
         
@@ -263,22 +263,22 @@ function App() {
     },
     {
       id: 11,
-      question: "Hangi ünlü çizgi karakter genellikle sarı renkli bir şapka takar?",
+      question: "Aşağıdaki hesaplardan hangisi hem bilanço hem gelir tablosu hem de maliyet hesapları arasında yer alır?",
       answers: [
         {
-          text: "Road Runner",
+          text: "Finansman Giderleri",
           correct: false,
         },
         {
-          text: "Tazmanya Canavarı",
+          text: "Dönem Net Kârı",
           correct: false,
         },
         {
-          text: "Kirpi Sonic",
+          text: "Gelecek Aylara Ait Giderler",
           correct: false,
         },
         {
-          text: "Hızlı Gonzales",
+          text: "Araştırma ve Geliştirme Giderler",
           correct: true,
         },
         
