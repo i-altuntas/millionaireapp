@@ -174,19 +174,19 @@ function App() {
       question: "Hangi bilgi yanlıştır?",
       answers: [
         {
-          text: "Tüyleri zehirli kuş vardır",
+          text: "KDV beyannamesi her ay verilir",
           correct: false,
         },
         {
-          text: "Uzaya dinozor fosili çıkartılmıştır",
+          text: "Alış iadeleri ticari mallara alacak kaydedilir",
           correct: false,
         },
         {
-          text: "Tilkiler ağaca tırmanamaz",
+          text: "Mal alışında nakliye giderleri 381. Gider Tahakkukları'na akydedilir",
           correct: true,
         },
         {
-          text: "Denizanaları planktondur",
+          text: "Blançoda aktif ve pasif taraflar birbirine eşit olmalıdır",
           correct: false,
         },
         
