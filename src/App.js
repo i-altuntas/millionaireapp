@@ -57,7 +57,7 @@ function App() {
     },
     {
       id: 2,
-      question: "Bilanço'daÖzkaynak hesapları kaçla başalar?",
+      question: "Bilanço'da Özkaynak hesapları kaçla başalar?",
       answers: [
         {
           text: "2 (iki)",
