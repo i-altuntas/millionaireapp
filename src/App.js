@@ -35,7 +35,7 @@ function App() {
   const data = [
     {
       id: 1,
-      question: "Gelir hesapları .....tarafından çalışır?",
+      question: "'Gelir hesapları .....tarafından çalışır.' Aşağıdaki kavramlardan hangisi boşluğa yerleştirmeye uygundur?",
       answers: [
         {
           text: "Borç",
@@ -57,22 +57,22 @@ function App() {
     },
     {
       id: 2,
-      question: "Cumhuriyetimizin kuruluş senesi nedir?",
+      question: "Bilanço'daÖzkaynak hesapları kaçla başalar?",
       answers: [
         {
-          text: "1923",
+          text: "2 (iki)",
           correct: true,
         },
         {
-          text: "1914",
+          text: "3 (üç)",
           correct: false,
         },
         {
-          text: "1920",
+          text: "4 (dört)",
           correct: false,
         },
         {
-          text: "1922",
+          text: "5 (beş)",
           correct: false,
         },
       ],
