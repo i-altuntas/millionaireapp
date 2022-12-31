@@ -35,22 +35,22 @@ function App() {
   const data = [
     {
       id: 1,
-      question: "Türkiye'nin başkenti neresidir?",
+      question: "Gelir hesapları .....tarafından çalışır?",
       answers: [
         {
-          text: "Adana",
+          text: "Borç",
           correct: false,
         },
         {
-          text: "Ankara",
+          text: "Alacak",
           correct: true,
         },
         {
-          text: "İstanbul",
+          text: "Pasif",
           correct: false,
         },
         {
-          text: "İzmir",
+          text: "Aktif",
           correct: false,
         },
       ],
