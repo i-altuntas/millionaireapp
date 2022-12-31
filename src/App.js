@@ -279,7 +279,7 @@ function App() {
         },
         {
           text: "Araştırma ve Geliştirme Giderler",
-          correct: true,
+          correct: false,
         },
         
       ],
