@@ -79,45 +79,45 @@ function App() {
     },
     {
       id: 3,
-      question: "Cumhuriyet ilan edildiğinde Atatürk kaç yaşındaydı?",
+      question: " Tek düzende Mal alışlarında kullanılar hesap adı ve kodu nedir?",
       answers: [
         {
-          text: "40",
+          text: "600 Yurt içi satışlar",
           correct: false,
         },
         {
-          text: "45",
+          text: "131 Ortaklardan Alacaklar",
           correct: false,
         },
         {
-          text: "41",
-          correct: false,
-        },
-        {
-          text: "42",
+          text: "153 Ticari mallar",
           correct: true,
+        },
+        {
+          text: "326 Alınan depozito ve teminatlar",
+          correct: false,
         },
         
       ],
     },
     {
       id: 4,
-      question: "Duru sakin havada çıkan kuru soğuk anlamına gelen ayaz kelimesinin kökeni hangisidir?",
+      question: "Tek düzende FAİZ GİDERLERİ aşağıdaki hesapların hangisine kaydedilir",
       answers: [
         {
-          text: "Yanlızlık",
+          text: "652 Faiz giderleri",
           correct: false,
         },
         {
-          text: "Karanlık",
+          text: "642 Faiz gelirleri",
           correct: false,
         },
         {
-          text: "Keskinlik",
+          text: "653 Komisyon giderleri",
           correct: false,
         },
         {
-          text: "Aydınlık",
+          text: "780 Finansman giderleri",
           correct: true,
         },
         
@@ -125,22 +125,22 @@ function App() {
     },
     {
       id: 5,
-      question: "Diğer adı “Eskişehir Taşı” olan taş hangisidir?",
+      question: "%80 ortağı olduğumuz X şirketine verilen borlar tek düzen hesap planında hangi hesab kaydedilir?",
       answers: [
         {
-          text: "Oltu taşı",
+          text: "132 İştiraklerden alacaklar",
           correct: false,
         },
         {
-          text: "lüle taşı",
+          text: "133 Bağlı ortaklardan alacaklar",
           correct: true,
         },
         {
-          text: "Çakmak taşı",
+          text: "121 Alacak senetleri",
           correct: false,
         },
         {
-          text: "sünger taşı",
+          text: "120 Alıcılar",
           correct: false,
         },
         
@@ -148,22 +148,22 @@ function App() {
     },
     {
       id: 6,
-      question: "Türkçede kelimeler en çok hangi harfle başlar?",
+      question: "Tek düzende kredi kartıyla mal satışları aşağıdaki hesaplardan hangisine kaydedilir?",
       answers: [
         {
-          text: "K harfi",
-          correct: true,
-        },
-        {
-          text: "M harfi",
+          text: "108 Diğer hazır değerler",
           correct: false,
         },
         {
-          text: "L harfi",
+          text: "198 Diğer dönen varlıklar",
           correct: false,
         },
         {
-          text: "S harfi",
+          text: "116 Diğer menkul kıymetler",
+          correct: false,
+        },
+        {
+          text: "157 Diğer stoklar",
           correct: false,
         },
         
