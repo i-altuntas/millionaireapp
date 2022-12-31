@@ -151,19 +151,19 @@ function App() {
       question: "Tek düzende kredi kartıyla mal satışları aşağıdaki hesaplardan hangisine kaydedilir?",
       answers: [
         {
-          text: "108 Diğer hazır değerler",
+          text: "108 Diğer hazır değerlere Borç kaydedilir.",
+          correct: true,
+        },
+        {
+          text: "198 Diğer dönen varlıklar Borç kaydedilir",
           correct: false,
         },
         {
-          text: "198 Diğer dönen varlıklar",
+          text: "198 Diğer dönen varlıklar Alacak kaydedilir",
           correct: false,
         },
         {
-          text: "116 Diğer menkul kıymetler",
-          correct: false,
-        },
-        {
-          text: "157 Diğer stoklar",
+          text: "108 Diğer hazır değerlere Alacak kaydedilir.",
           correct: false,
         },
         
@@ -178,15 +178,15 @@ function App() {
           correct: false,
         },
         {
-          text: "Alış iadeleri ticari mallara alacak kaydedilir",
+          text: "Alıştan iadeler 153 Ticari mallar'a Alacak kaydedilir",
           correct: false,
         },
         {
-          text: "Mal alışında nakliye giderleri 381. Gider Tahakkukları'na akydedilir",
+          text: "Mal alışında nakliye giderleri 381 Gider Tahakkukları'na kaydedilir",
           correct: true,
         },
         {
-          text: "Blançoda aktif ve pasif taraflar birbirine eşit olmalıdır",
+          text: "Bilanço'da aktif ve pasif taraflar birbirine eşit olmalıdır",
           correct: false,
         },
         
@@ -194,7 +194,7 @@ function App() {
     },
     {
       id: 8,
-      question: "Hangisi Fransız heykeltıraş Rodin’in eserlerinden biri değildir??",
+      question: "Hangisi Fransız heykeltıraş Rodin’in eserlerinden biri değildir?",
       answers: [
         {
           text: "Uyuyan Kadın",
