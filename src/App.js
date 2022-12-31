@@ -61,7 +61,7 @@ function App() {
       answers: [
         {
           text: "2 (iki)",
-          correct: true,
+          correct: false,
         },
         {
           text: "3 (üç)",
@@ -73,7 +73,7 @@ function App() {
         },
         {
           text: "5 (beş)",
-          correct: false,
+          correct: true,
         },
       ],
     },
